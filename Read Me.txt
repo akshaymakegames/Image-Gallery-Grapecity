@@ -2,7 +2,7 @@
 *******************************README********************************
 *********************************************************************
 
-1. You can install the application by going to the Setup folder, and then clicking "Setup.exe".
+1. You can install the application by going to the Setup folder, and then clicking "Setup.exe". If the setup doesn't work go to the project file and open it in Visual Studios 2019 and then run the application. 
 
 2. The test cases are written in the "Image Gallery Test Cases.docx" file.
 
@@ -11,4 +11,7 @@
 you can search in the search menu in start for  "Image Gallery test".
 
 4. The project files are also attached in the repository.
+
+5. Check the Video in the same folder named "Image Gallery Video".mp4 .
+
 

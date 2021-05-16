@@ -1,0 +1,45 @@
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\Image Gallery test.exe.config
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\Image Gallery test.exe
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\Image Gallery test.pdb
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.C1Zip.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1DX.4.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Input.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1SplitContainer.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Themes.4.5.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.4.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.C1Zip.4.5.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Input.4.5.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Command.4.5.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.C1Zip.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1DX.4.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1SplitContainer.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Themes.4.5.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.4.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.C1Zip.4.5.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Input.4.5.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.Win.C1Command.4.5.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.csprojAssemblyReference.cache
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image_Gallery_test.ImageGallery.resources
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.csproj.GenerateResource.cache
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.exe.licenses
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.csproj.CoreCompileInputs.cache
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.csproj.CopyComplete
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.exe
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.pdb
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image_Gallery_test.Properties.Resources.resources
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.C1Pdf.4.5.2.dll
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\C1.C1Pdf.4.5.2.xml
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\Image Gallery test.exe.manifest
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\bin\Debug\Image Gallery test.application
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.exe.manifest
+C:\Users\ptwra\source\repos\Image Gallery test\Image Gallery test\obj\Debug\Image Gallery test.application
